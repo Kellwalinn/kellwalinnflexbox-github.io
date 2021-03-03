@@ -1,0 +1,30 @@
+h2 {
+  color: #DDA0DD;
+  font-size: 25px;
+  text-align: center;
+  font-family: monospace; 
+}
+
+h5 {
+  color: #ADD8E6;
+  font-size: 25px;
+}
+
+li {
+  color: #ADD8E6;
+  font-size: 15px;
+  text-align: center;
+}
+
+p {
+  color: #ADD8E6;
+  font-size: 15px;
+  text-align: center;
+}
+
+img{
+  border-style: dotted;
+  border-color: #8FBC8F;
+  border-radius: 30px;
+ }
+ 
