@@ -27,6 +27,8 @@ img{
   border-color: #8FBC8F;
   border-radius: 30px;
   text-align: center;
+  width = 350px;
+  height = 250px;
  }
   
   .flex-container {
