@@ -27,21 +27,7 @@ img{
   border-color: #8FBC8F;
   border-radius: 30px;
   text-align: center;
-  width: 50px;
-  height: 30px;
  }
   
-  .flex-container {
-  display: flex;
-  background-color: #F0F8FF;
-  justify-content: space-evenly;
-}
-
-.flex-container > div {
-  background-color: #FFE4E1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
-  
+ 
 
